@@ -16,7 +16,7 @@ In my work, dedication, continuous learning, and innovation are key. Every proje
 - [About](#about)
 - [Contacs](#contacts)
 - [Projects](#projects)
-  	+ [MoMo - Stock trading](momo---stock-trading)
+  	+ [MoMo - Stock trading](#momo---stock-trading)
 	+ [Amnesia](#amnesia)
 	+ [Debeer](#debeer)
 	+ [Luois Vuitton](#luois-vuitton)
@@ -45,8 +45,8 @@ Alongside standard trading features, app offers margin lending! Boost your tradi
 * Contributed to the development and improvement of MoMoKits
 
 #### Review
-* IOS: momo://action=marketing&refId=stock_center&featureCode=stock_center
-* Android: momo://action=marketing&refId=stock_center&featureCode=stock_center
+* IOS: https://page.momoapp.vn/zZUILn18Skk
+* Android: https://page.momoapp.vn/zZUILn18Skk
 
 ### Amnesia
 #### About
