@@ -16,6 +16,7 @@ In my work, dedication, continuous learning, and innovation are key. Every proje
 - [About](#about)
 - [Contacs](#contacts)
 - [Projects](#projects)
+  	+ [MoMo - Stock trading](momo---stock-trading)
 	+ [Amnesia](#amnesia)
 	+ [Debeer](#debeer)
 	+ [Luois Vuitton](#luois-vuitton)
@@ -24,9 +25,32 @@ In my work, dedication, continuous learning, and innovation are key. Every proje
 - [Certificates](#certificates)
 
 ## Projects
+
+### MoMo - Stock Trading
+#### About
+Mini-app stock trading is inside super app MoMo (transfering money and other finance services) was built for Vietname to trading Stock.
+
+Alongside standard trading features, app offers margin lending! Boost your trading by borrowing funds and amplify your investments seamlessly.
+
+#### Technologies
+* Front-end: React Native Typescript
+* Back end: Java Spring Boot
+
+#### Responsibilities
+* Developed new features to enhance functionality.
+* Migrated the storage manager from Recoil to Zustand to improve code quality.
+* Optimized the data lifecycle for better performance.
+* Created UIKits based on MoMoKits to reduce dependency on MoMoKits, enabling the development of a standalone stock-trading application
+* Modularized features into separate modules to support both the mini-app and the standalone stock-trading application. 
+* Contributed to the development and improvement of MoMoKits
+
+#### Review
+* IOS: momo://action=marketing&refId=stock_center&featureCode=stock_center
+* Android: momo://action=marketing&refId=stock_center&featureCode=stock_center
+
 ### Amnesia
 #### About
-Your app is designed for people who go to Amnesia Ibiza club. It provides a party event calendar and information about the club. Users can listen to the club's radio and connect to the Klubcoin wallet app to purchase real items in the club.
+App is designed for people who go to Amnesia Ibiza club. It provides a party event calendar and information about the club. Users can listen to the club's radio and connect to the Klubcoin wallet app to purchase real items in the club.
 
 Additionally, the app allows users to view the club's latest updates and news, as well as access exclusive content and promotions. With its user-friendly interface and comprehensive features, your app is the perfect companion for anyone looking to make the most of their experience at Amnesia Ibiza.
 
